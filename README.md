@@ -34,4 +34,5 @@
 
 - Qué es y para qué sirve el repositorio central de maven
 
+   El repositorio central de maven es un repositorio remoto donde se encuentran la mayoria de librerias que se utilizan en los desarrollos de software y que la propia herramienta se descarga cuando sea necesario.
 
