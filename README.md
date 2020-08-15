@@ -22,7 +22,7 @@
 
    Las partes del ciclo de vida principal del proyecto Maven son:
    
-   1. compile:Genera los ficheros .class compilando los fuentes .java
+   	1. compile:Genera los ficheros .class compilando los fuentes .java
 	2. test: Ejecuta los test automáticos de JUnit existentes, abortando el proceso si alguno de ellos falla.
 	3. package: Genera el fichero .jar con los .class compilados
 	4. install: Copia el fichero .jar a un directorio de nuestro ordenador donde maven deja todos los .jar. De esta forma esos .jar pueden utilizarse en otros proyectos maven en el    mismo ordenador.
