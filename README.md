@@ -4,8 +4,10 @@
 ### La herramienta Maven
 
 - Cuál es su mayor utilidad
-   \La mayor utilidad de maven es poder compilar y generar ejecutables a partir del codigo fuente.
+
+   La mayor utilidad de maven es poder compilar y generar ejecutables a partir del codigo fuente.
 - Fases de maven
+
    Las fases de maven son:
    - **Validación** (validate): Validar que el proyecto es correcto.
    - **Compilación** (compile): 
