@@ -30,4 +30,8 @@
    
 - Para qué sirven los plugins
 
+   Los plugins sirven para que Maven gestione las dependencias de librerías en el proyecto por lo que indicando los frameworks a utilizar él se encarga de descargarlos de Internet así como todos los que cada uno requiera.
+
 - Qué es y para qué sirve el repositorio central de maven
+
+
